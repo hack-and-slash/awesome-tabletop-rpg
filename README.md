@@ -6,17 +6,17 @@ Tabletop RPG Tools, materials and projects
 ## Table of Contents
 
 * [System Agnostic](#system-agnostic)
-    * [Tools](#tools)
-    * [Remote play](#remote-play)
-    * [Audio](#audio)
-    * [Resources](#resources)
-    * [Icons](#icons)
-    * [Miniatures](#miniatures)
-        * [Paper](#paper)
-        * [3D](#3d)
+   * [Tools](#tools)
+      * [Remote play](#remote-play)
+      * [Audio](#audio)
+   * [Resources](#resources)
+      * [Icons](#icons)
+      * [Miniatures](#miniatures)
+         * [Paper](#paper)
+         * [3D](#3d)
 * [D&D 5e](#dd-5e)
-    * [Tools](#tools-1)
-    * [Web](#web)
+   * [Tools](#tools-1)
+   * [Web](#web)
 
 ## System Agnostic
 
