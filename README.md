@@ -16,15 +16,11 @@ Tabletop RPG Tools, materials and projects
       * [Miniatures](#miniatures)
          * [Paper](#paper)
          * [3D](#3d)
-
-
 * [D&D 5e](#dd-5e)
    * [Tools](#tools-1)
    * [Web](#web)
-
-
 * [GURPS 4e](#gurps-4e)
-    * [Tools](#tools-2)
+   * [Tools](#tools-2)
       * [Character Creation](#gurps-4e-character)
 
 
