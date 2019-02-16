@@ -39,6 +39,7 @@ Tabletop RPG Tools, materials and projects
 
 #### Map Making
 * [MapTool](http://www.rptools.net/toolbox/maptool/) - An open-source tool that includes a wide range of resources for creating detailed maps. Its primary role is to work as a Virtual Table Top that replaces pen, paper, battle mats, and dice.
+* [Fantasy-Map-Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - An open-source tool which procedurally generates fantasy maps. You may use auto-generated maps as they are, edit them or even create a map from scratch.
 
 #### Remote play
 Tools to host a session remotely
