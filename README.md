@@ -31,6 +31,8 @@ Tabletop RPG Tools, materials and projects
       - [Paper Forge](#paper-forge)
       - [3D](#3d)
         * [Hero Forge](#hero-forge)
+    + [Miscelaneous](#miscelaneous)
+      - [RPG Cards](#rpg-cards)
 - [D&D 5e](#dd-5e)
   * [Tools](#tools-1)
     + [Web](#web)
@@ -79,9 +81,15 @@ Tools to host a session remotely
 ##### [Printable Heroes](https://printableheroes.com) - PrintableHeroes creates print-ready miniatures (or minis) for Dungeons and Dragons or other table top role-playing games and then releases them for free each month.
 ##### [Paper Forge](https://www.patreon.com/paperforge) -  Fantasy paper minis, item cards, spell cards and other props for use in D&D, Pathfinder and other Tabletop RPGs
 
+
 ##### 3D
 
 ###### [Hero Forge](https://www.heroforge.com/) - Design your miniatures choosing from a library of body parts and props and download or order 3D prints. You can also take screenshots to use as hero portraits/tokens.
+
+#### Miscelaneous
+
+#### [RPG Cards](https://crobi.github.io/rpg-cards/generator/generate.html) - Fantasy card generator. Generate items, spells, monsters, characters, or NPCs.
+
 
 ## D&D 5e
 
