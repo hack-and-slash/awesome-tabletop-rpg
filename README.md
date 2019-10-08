@@ -98,7 +98,6 @@ Tools to host a session remotely
 
 ### Tools
 
-
 #### Web
 
 ##### [D&D Beyond](https://www.dndbeyond.com/) - Official digital toolset for D&D, nice help to mount your character's sheet.
