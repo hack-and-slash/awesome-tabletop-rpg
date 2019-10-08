@@ -37,6 +37,7 @@ Tabletop RPG Tools, materials and projects
 - [D&D 5e](#dd-5e)
   * [Tools](#tools-1)
     + [Web](#web)
+      - [D&D Beyond](#dd-beyond)
       - [Improved Initiative](#improved-initiative)
       - [Kobold Fight Club](#kobold-fight-club)
 - [GURPS 4e](#gurps-4e)
@@ -99,6 +100,7 @@ Tools to host a session remotely
 
 #### Web
 
+##### [D&D Beyond](https://www.dndbeyond.com/) - Official digital toolset for D&D, nice help to mount your character's sheet.
 ##### [Improved Initiative](http://www.improved-initiative.com/) - Combat planner and tracker with player and DM views, with conditions tracking and detailed creature info (great for use with tablets)
 ##### [Kobold Fight Club](http://kobold.club) - Encounter planner and runner. Focused on building balanced encounters.
 
