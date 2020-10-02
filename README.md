@@ -93,10 +93,10 @@ Tools to host a session remotely
 
 ###### [Hero Forge](https://www.heroforge.com/) - Design your miniatures choosing from a library of body parts and props and download or order 3D prints. You can also take screenshots to use as hero portraits/tokens.
 
-#### Miscelaneous
+#### Miscellaneous
 
 #### [RPG Cards](https://crobi.github.io/rpg-cards/generator/generate.html) - Fantasy card generator. Generate items, spells, monsters, characters, or NPCs.
-
+#### [Tabletop Role-Playing Game Generators](https://www.rpggen.dev/) - Directory of websites that offer tools for generating content for tabletop RPGs.
 
 ## D&D 5e
 
