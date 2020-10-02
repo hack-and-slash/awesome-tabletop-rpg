@@ -23,6 +23,7 @@ Tabletop RPG Tools, materials and projects
       - [Roll20](#roll20)
       - [Fantasy Grounds](#fantasy-grounds)
       - [Astral TableTop](#astral-tabletop)
+      - [The Dhole's House](#the-dholes-house)
   * [Resources](#resources)
     + [Icons](#icons)
       - [game-icons.net](#game-iconsnet)
@@ -70,6 +71,7 @@ Tools to host a session remotely
 ##### [Roll20](https://roll20.net/) - Web platform to host games online. Includes dynamic char sheets and a Marketplace with integrated content for several systems.
 ##### [Fantasy Grounds](https://www.fantasygrounds.com) - Desktop virtual tabletop app. Includes, among others, DnD, Call of Cthulhu and Pathfinder content.
 ##### [Astral TableTop](https://www.astraltabletop.com/) - Web platform to host games online. Includes integration with Dungeon Masters Guild and DriveThru RPG.
+##### [The Dholes House](https://www.dholeshouse.org/) - Web plaform to host Call of Cthulhu games online. Users can also create character sheets and share materials with other players.
 
 ### Resources
 
