@@ -23,6 +23,7 @@ Tabletop RPG Tools, materials and projects
       - [Roll20](#roll20)
       - [Fantasy Grounds](#fantasy-grounds)
       - [Astral TableTop](#astral-tabletop)
+      - [Owlbear Rodeo](#owlbear-rodeo)
   * [Resources](#resources)
     + [Icons](#icons)
       - [game-icons.net](#game-iconsnet)
@@ -70,6 +71,7 @@ Tools to host a session remotely
 ##### [Roll20](https://roll20.net/) - Web platform to host games online. Includes dynamic char sheets and a Marketplace with integrated content for several systems.
 ##### [Fantasy Grounds](https://www.fantasygrounds.com) - Desktop virtual tabletop app. Includes, among others, DnD, Call of Cthulhu and Pathfinder content.
 ##### [Astral TableTop](https://www.astraltabletop.com/) - Web platform to host games online. Includes integration with Dungeon Masters Guild and DriveThru RPG.
+##### [Owlbear Rodeo](https://www.owlbear.rodeo/) - Web platform to host games online. Very lightweight and easy to use. Does not require players to create a login.
 
 ### Resources
 
