@@ -65,11 +65,13 @@ Tabletop RPG Tools, materials and projects
 #### Map Making
 ##### [MapTool](http://www.rptools.net/toolbox/maptool/) - An open-source tool that includes a wide range of resources for creating detailed maps. Its primary role is to work as a Virtual Table Top that replaces pen, paper, battle mats, and dice.
 ##### [Fantasy-Map-Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - An open-source tool which procedurally generates fantasy maps. You may use auto-generated maps as they are, edit them or even create a map from scratch.
+##### [medieval-fantasy-city-generator](https://watabou.itch.io/medieval-fantasy-city-generator) - This application generates a random medieval city layout of a requested size. 
 
 #### Remote play
 Tools to host a session remotely
 
 ##### [Roll20](https://roll20.net/) - Web platform to host games online. Includes dynamic char sheets and a Marketplace with integrated content for several systems.
+##### [Foundry VTT](https://foundryvtt.com/) - a self-hosted, modern, and developer-friendly roleplaying platform. 
 ##### [Fantasy Grounds](https://www.fantasygrounds.com) - Desktop virtual tabletop app. Includes, among others, DnD, Call of Cthulhu and Pathfinder content.
 ##### [Astral TableTop](https://www.astraltabletop.com/) - Web platform to host games online. Includes integration with Dungeon Masters Guild and DriveThru RPG.
 ##### [Owlbear Rodeo](https://www.owlbear.rodeo/) - Web platform to host games online. Very lightweight and easy to use. Does not require players to create a login.
@@ -80,6 +82,7 @@ Tools to host a session remotely
 #### Icons
 
 ##### [game-icons.net](https://game-icons.net) - 3400+ Creative Commons icons in PNG and SVG.
+##### [symbolikon](https://symbolikon.com/) - 1000+ symbols from around the world in 4 styles and raster and vector formats. **$45/year for Personal Use**
 
 #### Miniatures
 
