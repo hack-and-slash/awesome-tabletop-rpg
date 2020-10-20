@@ -26,7 +26,7 @@ Tabletop RPG Tools, materials and projects
       - [Fantasy Grounds](#fantasy-grounds)
       - [Astral TableTop](#astral-tabletop)
       - [Owlbear Rodeo](#owlbear-rodeo)
-      - [The Dholes House](#the-dholes-house)
+      - [The Dhole's House](#the-dholes-house)
   * [Resources](#resources)
     + [Icons](#icons)
       - [game-icons.net](#game-iconsnet)
