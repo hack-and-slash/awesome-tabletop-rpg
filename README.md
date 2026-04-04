@@ -61,6 +61,7 @@ Tabletop RPG Tools, materials and projects
 #### Character Creation
 
 ##### [CharacterTool](http://www.rptools.net/toolbox/character-tool/) - An open-source tool for players to manage their characters during game play. It is fully scripted so that the tediousness of tracking large numbers of stats can be automated.
+##### [GetCharGen](https://getchargen.com/) - A free AI-powered D&D character generator that creates complete characters with backstories, stats, and portraits in seconds. Supports D&D 5e with detailed race, class, and background options.
 
 #### Map Making
 ##### [MapTool](http://www.rptools.net/toolbox/maptool/) - An open-source tool that includes a wide range of resources for creating detailed maps. Its primary role is to work as a Virtual Table Top that replaces pen, paper, battle mats, and dice.
