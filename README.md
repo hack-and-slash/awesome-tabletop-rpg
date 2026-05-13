@@ -96,6 +96,7 @@ Tools to host a session remotely
 #### Miscellaneous
 
 #### [RPG Cards](https://crobi.github.io/rpg-cards/generator/generate.html) - Fantasy card generator. Generate items, spells, monsters, characters, or NPCs.
+#### [Surname Generator](https://surname-generator.com) - Free in-browser surname generator with 29 real-origin pools (English, Japanese, Russian, Brazilian, Nigerian, ...) plus fantasy, D&D (split by race — Dwarf/Elf/Halfling/Tiefling) and sci-fi flavors. Generate 1, 10 or 50 at once. Useful for naming PCs, NPCs and whole campaign casts.
 #### [Tabletop Role-Playing Game Generators](https://www.rpggen.dev/) - Directory of websites that offer tools for generating content for tabletop RPGs.
 
 ## D&D 5e
