@@ -97,6 +97,7 @@ Tools to host a session remotely
 
 #### [RPG Cards](https://crobi.github.io/rpg-cards/generator/generate.html) - Fantasy card generator. Generate items, spells, monsters, characters, or NPCs.
 #### [Tabletop Role-Playing Game Generators](https://www.rpggen.dev/) - Directory of websites that offer tools for generating content for tabletop RPGs.
+#### [OmnisGM Rules](https://rules.omnisgm.com) - Fast static reader for open TTRPG SRDs (D&D 5.2.1/5.1, Daggerheart, BRP) with clean HTML, public Markdown sources and a complete Russian translation.
 
 ## D&D 5e
 
@@ -107,6 +108,7 @@ Tools to host a session remotely
 ##### [D&D Beyond](https://www.dndbeyond.com/) - Official digital toolset for D&D, nice help to mount your character's sheet.
 ##### [Improved Initiative](http://www.improved-initiative.com/) - Combat planner and tracker with player and DM views, with conditions tracking and detailed creature info (great for use with tablets)
 ##### [Kobold Fight Club](http://kobold.club) - Encounter planner and runner. Focused on building balanced encounters.
+##### [OmnisGM](https://omnisgm.com/) - Free realtime D&D 2024 character sheets for in-person play: players use their own phones, the GM sees every change live. Installable PWA, works offline.
 
 ## GURPS 4e
 
