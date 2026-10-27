@@ -16,6 +16,7 @@ Tabletop RPG Tools, materials and projects
       - [Tabletop Audio](#tabletop-audio)
     + [Character Creation](#character-creation)
       - [CharacterTool](#charactertool)
+      - [Mingzi Chinese Name Generator](#mingzi-chinese-name-generator)
     + [Map Making](#map-making)
       - [MapTool](#maptool)
       - [Fantasy-Map-Generator](#fantasy-map-generator)
@@ -61,6 +62,7 @@ Tabletop RPG Tools, materials and projects
 #### Character Creation
 
 ##### [CharacterTool](http://www.rptools.net/toolbox/character-tool/) - An open-source tool for players to manage their characters during game play. It is fully scripted so that the tediousness of tracking large numbers of stats can be automated.
+##### [Mingzi Chinese Name Generator](https://mingzi.io/chinese-name-generator) - Authentic Chinese character name, surname (Baijiaxing), and meaning generator with Pinyin pronunciation and Five Elements symbolism for tabletop RPG characters and NPCs.
 
 #### Map Making
 ##### [MapTool](http://www.rptools.net/toolbox/maptool/) - An open-source tool that includes a wide range of resources for creating detailed maps. Its primary role is to work as a Virtual Table Top that replaces pen, paper, battle mats, and dice.
