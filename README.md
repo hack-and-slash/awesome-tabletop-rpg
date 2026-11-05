@@ -97,6 +97,7 @@ Tools to host a session remotely
 
 #### [RPG Cards](https://crobi.github.io/rpg-cards/generator/generate.html) - Fantasy card generator. Generate items, spells, monsters, characters, or NPCs.
 #### [Tabletop Role-Playing Game Generators](https://www.rpggen.dev/) - Directory of websites that offer tools for generating content for tabletop RPGs.
+#### [Pit Stop Publishing Horror One-Shot Finder](https://thejurn.com/publishing/finder/) - Free searchable finder of 238+ horror TTRPG one-shots and zines on itch.io, filterable by system (Mothership, Mörk Borg, Liminal Horror, Cairn, 24XX and more).
 
 ## D&D 5e
 
