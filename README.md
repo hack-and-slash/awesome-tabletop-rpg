@@ -36,6 +36,7 @@ Tabletop RPG Tools, materials and projects
         * [Hero Forge](#hero-forge)
     + [Miscelaneous](#miscelaneous)
       - [RPG Cards](#rpg-cards)
+      - [RandomGeneratr NPC Generator](#randomgeneratr-npc-generator---generate-npc-names-motives-flaws-and-story-hooks-for-tabletop-preparation-free-generation-and-copying-without-an-account)
 - [D&D 5e](#dd-5e)
   * [Tools](#tools-1)
     + [Web](#web)
@@ -96,6 +97,7 @@ Tools to host a session remotely
 #### Miscellaneous
 
 #### [RPG Cards](https://crobi.github.io/rpg-cards/generator/generate.html) - Fantasy card generator. Generate items, spells, monsters, characters, or NPCs.
+#### [RandomGeneratr NPC Generator](https://randomgeneratr.com/npc-generator) - Generate NPC names, motives, flaws, and story hooks for tabletop preparation; free generation and copying without an account.
 #### [Tabletop Role-Playing Game Generators](https://www.rpggen.dev/) - Directory of websites that offer tools for generating content for tabletop RPGs.
 
 ## D&D 5e
