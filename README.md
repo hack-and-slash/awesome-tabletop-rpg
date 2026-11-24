@@ -107,6 +107,7 @@ Tools to host a session remotely
 ##### [D&D Beyond](https://www.dndbeyond.com/) - Official digital toolset for D&D, nice help to mount your character's sheet.
 ##### [Improved Initiative](http://www.improved-initiative.com/) - Combat planner and tracker with player and DM views, with conditions tracking and detailed creature info (great for use with tablets)
 ##### [Kobold Fight Club](http://kobold.club) - Encounter planner and runner. Focused on building balanced encounters.
+##### [Seal & Quill](https://sealquill.com/?ref=awesome-tabletop-rpg) - GM web app: session notes become an in-world town newspaper, NPC letters and secrets; maps with fog of war, generators, Discord bot. Free plan.
 
 ## GURPS 4e
 
